@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+.gray{
+    color: gray;
+}
+.red{
+    color: red;
+}
+hr {
+    height: 10px;
+    background-color: black;
+}
